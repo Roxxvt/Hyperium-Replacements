@@ -41,6 +41,7 @@
 # Misc
 - Different Main Menu - [Lumien231 Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu)
 - Confirm Disconnect  - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Emotes - :trollface:
 
 # Mods
 - ShinyPots - [RoccoDev ShinyPots](https://hypixel.net/threads/forge-1-8-9-shinypots.1750052/)
